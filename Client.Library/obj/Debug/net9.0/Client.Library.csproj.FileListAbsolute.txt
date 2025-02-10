@@ -1,0 +1,12 @@
+C:\Users\Gabe\Documents\Junior Spring 25'\Programming Foundations II\cis-230-sp25-03-week-04-gabering0\Client.Library\bin\Debug\net9.0\Client.Library.deps.json
+C:\Users\Gabe\Documents\Junior Spring 25'\Programming Foundations II\cis-230-sp25-03-week-04-gabering0\Client.Library\bin\Debug\net9.0\Client.Library.dll
+C:\Users\Gabe\Documents\Junior Spring 25'\Programming Foundations II\cis-230-sp25-03-week-04-gabering0\Client.Library\bin\Debug\net9.0\Client.Library.pdb
+C:\Users\Gabe\Documents\Junior Spring 25'\Programming Foundations II\cis-230-sp25-03-week-04-gabering0\Client.Library\obj\Debug\net9.0\Client.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabe\Documents\Junior Spring 25'\Programming Foundations II\cis-230-sp25-03-week-04-gabering0\Client.Library\obj\Debug\net9.0\Client.Library.AssemblyInfoInputs.cache
+C:\Users\Gabe\Documents\Junior Spring 25'\Programming Foundations II\cis-230-sp25-03-week-04-gabering0\Client.Library\obj\Debug\net9.0\Client.Library.AssemblyInfo.cs
+C:\Users\Gabe\Documents\Junior Spring 25'\Programming Foundations II\cis-230-sp25-03-week-04-gabering0\Client.Library\obj\Debug\net9.0\Client.Library.csproj.CoreCompileInputs.cache
+C:\Users\Gabe\Documents\Junior Spring 25'\Programming Foundations II\cis-230-sp25-03-week-04-gabering0\Client.Library\obj\Debug\net9.0\Client.Library.sourcelink.json
+C:\Users\Gabe\Documents\Junior Spring 25'\Programming Foundations II\cis-230-sp25-03-week-04-gabering0\Client.Library\obj\Debug\net9.0\Client.Library.dll
+C:\Users\Gabe\Documents\Junior Spring 25'\Programming Foundations II\cis-230-sp25-03-week-04-gabering0\Client.Library\obj\Debug\net9.0\refint\Client.Library.dll
+C:\Users\Gabe\Documents\Junior Spring 25'\Programming Foundations II\cis-230-sp25-03-week-04-gabering0\Client.Library\obj\Debug\net9.0\Client.Library.pdb
+C:\Users\Gabe\Documents\Junior Spring 25'\Programming Foundations II\cis-230-sp25-03-week-04-gabering0\Client.Library\obj\Debug\net9.0\ref\Client.Library.dll
